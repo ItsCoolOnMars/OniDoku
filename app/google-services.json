@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "46974899313",
+    "firebase_url": "https://group3app-8ab3a.firebaseio.com",
+    "project_id": "group3app-8ab3a",
+    "storage_bucket": "group3app-8ab3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46974899313:android:a810f0e8a836b52c",
+        "android_client_info": {
+          "package_name": "com.example.toshiba.onlidoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46974899313-aucnkvvgcbm5hp3sv766o0q5e8u0i8od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toshiba.onlidoku",
+            "certificate_hash": "565956c7794836394803805371ab10d74dd608aa"
+          }
+        },
+        {
+          "client_id": "46974899313-74dqq11q24rlnsn9tio8op79elicu8u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqeq8RvMWA7VUuP1ly0bL_QTialsId3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46974899313-74dqq11q24rlnsn9tio8op79elicu8u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
